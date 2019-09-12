@@ -1,0 +1,2 @@
+# VSSettings
+Visual Studio Settings
